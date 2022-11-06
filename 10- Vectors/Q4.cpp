@@ -24,7 +24,7 @@ int main()
         }
     }
 
-    if (result == v.size()-1)
+    if (result == v.size() - 1)
     {
         cout << "Yes vector is in ascending order";
     }
