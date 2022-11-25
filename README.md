@@ -1,4 +1,4 @@
 # DSA-in-Cpp
 My DSA Grind 🔥
 
-![alt](https://www.passionateinmarketing.com/wp-content/uploads/2021/10/maxresdefault-199.jpg)
+![alt](https://blog.penjee.com/wp-content/uploads/2015/11/binary-search-tree-sorted-array-animation.gif)
