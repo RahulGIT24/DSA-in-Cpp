@@ -1,4 +1,4 @@
-// Merge two arrays into and store it into a  new array in a sorted manner 
+// Merge two arrays into and store it into a new array in a sorted order
 
 
 #include <iostream>
