@@ -1,0 +1,1 @@
+// Check if two subarrays with equal sum, Check that prefix sum of a part of the array is equal to the suffix sum of the rest of the array
