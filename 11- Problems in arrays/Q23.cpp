@@ -8,13 +8,13 @@ int main()
     int array[10] = {2, 3, 4, 5, 6, 7, 12, 6, 90, 67};
 
     int ask, pos; // Creating variables
-    
+
     // Taking number input from user
     cout << "Enter a number " << endl;
     cin >> ask;
 
     // Taking position input from user
-    cout << "Enter the position where you want to insert" << ask << " " << endl;
+    cout << "Enter the position where you want to insert " << ask << " " << endl;
     cin>>pos;
 
     // Printing original array
